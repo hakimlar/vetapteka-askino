@@ -1,2 +1,2 @@
-# vetapteka-askino
+# vetapteka-askino.io
 my first project
